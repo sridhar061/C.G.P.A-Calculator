@@ -126,8 +126,12 @@ textField_1.setText(""); textField_2.setText(""); textField_3.setText(""); textF
  
 
 STEP-24: If the user selected the EXIT JButton, the code will be directed to the EXIT function. STEP-25: It will exit the program by System. exit(0) function.
+
 FLOW CHART:
+
 ![image](https://user-images.githubusercontent.com/62333854/116897632-1afd4100-ac53-11eb-87bf-3e4090bc6c25.png)
+
 SAMPLE OUTPUT:
+
 ![image](https://user-images.githubusercontent.com/62333854/116897987-7deed800-ac53-11eb-8384-ade188abfe64.png)
 
